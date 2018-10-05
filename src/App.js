@@ -18,7 +18,6 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React Pero Franci
-            <padajn>
           </a>
         </header>
       </div>
